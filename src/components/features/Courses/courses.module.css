@@ -1,0 +1,24 @@
+.infoBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.inlineInfoBlock {
+    display: flex;
+    flex-direction: row;
+}
+.propsData {
+    margin-left: 10px;
+}
+
+.nameOfCourse {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.buttonDelete {
+    margin-left: 5px;
+}

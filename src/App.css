@@ -1,0 +1,37 @@
+/*.App {*/
+/*  padding: 30px;*/
+/*  display: flex;*/
+/*}*/
+
+/*.App > div {*/
+/*  margin-left: 50px;*/
+/*}*/
+
+.commonClassName:nth-child(odd) {
+  background-color: #f6f6f6;
+}
+
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  padding-left: 0
+}
+
+/*.error {*/
+/*  border: orangered 1px solid;*/
+/*}*/
+
+/*.error-message {*/
+/*  color: orangered;*/
+/*}*/
+
+/*.active-filter {*/
+/*  background-color: aquamarine;*/
+/*}*/
+
+/*.is-done {*/
+/*  opacity: 0.5;*/
+/*}*/
